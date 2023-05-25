@@ -1,0 +1,13 @@
+
+SINGLE RESPONSIBILITY PRINCIPLE
+
+The idea behind SRP is that every class,module or function in a program should have one responsibility
+or purpose in a program.
+As a common definition , every class should have a single responsibility to change.
+
+The Single Responsibility Principle (SRP) states that a class or module should have only one reason to 
+change. It means that a class should have only one responsibility or purpose and should be focused on 
+performing that specific task.
+
+In Flutter, we can apply the Single Responsibility Principle by breaking down our code into smaller,
+modular components, each responsible for a specific task.
