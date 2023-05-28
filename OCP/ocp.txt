@@ -1,0 +1,5 @@
+
+OPEN CLOSED PRINCIPLE
+
+Software entities (Classes,modules,functions) should be open for extension and CLOSED
+for modification.
