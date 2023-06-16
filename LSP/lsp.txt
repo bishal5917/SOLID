@@ -1,0 +1,8 @@
+
+LISKOV SUBSTITUITION PRINCIPLE
+
+IT states that the object (such as a class) and a subobject (such as a class that extends other class) must 
+be interchangeable without breaking the program.
+
+LSP states that the objects of a superclass should be replacable with the objects of its subclasses without breaking the 
+application.In other words,we want the object of our subclasses beahaving the same way as the objects of our superclass.
